@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">👾 Creating bugs since 2020!<br>📚 I'm currently learning how to be a software engenier!<br>🎯 Goals: Learn a litle of every area of interest!<br>🎲 Fun fact: I still don't know wich area is my favorite!<br>📫 How to reach me: danielmartinhodecarvalho@gmail.com or  https://www.linkedin.com/in/daniel-martinho-de-carvalho-3b0619207/</p>
+<p align="left">👾 Creating bugs since 2020!<br>📚 I'm currently learning how to be a software engenier!<br>🎯 Goals: Learn a litle of every area of interest!<br>🎲 Fun fact: I still don't know wich area is my favorite!<br>📫 How to reach me: danielmartinhodecarvalho@gmail.com /</p>
 
 ###
 
