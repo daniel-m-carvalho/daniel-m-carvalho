@@ -1,12 +1,4 @@
-<br clear="both">
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<br clear="both">
-
-<p align="left">My name is Daniel Carvalho and I'm a young developer, from Portugal!</p>
+<h2 align="left">Hi 👋! My name is Daniel Carvalho and I'm a young developer, from Portugal!</h2>
 
 ###
 
@@ -70,6 +62,27 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-m-carvalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-m-carvalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/daniel-m-carvalho/daniel-m-carvalho/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/daniel-m-carvalho/count.svg?"  />
 </div>
 
 ###
