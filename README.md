@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Daniel Carvalho and I'm a young developer, from Portugal!</h2>
+<h1 align="left">Hi 👋! My name is Daniel Carvalho and I'm a young developer, from Portugal!</h1>
 
 ###
 
@@ -77,7 +77,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/daniel-m-carvalho/daniel-m-carvalho/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
 
