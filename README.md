@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">👾 Creating bugs since 2020!<br>📚 I'm currently learning how to be a software engenier!<br>🎯 Goals: Learn a litle of every area of interest!<br>🎲 Fun fact: I still don't know wich area is my favorite!<br>📫 How to reach me: danielmartinhodecarvalho@gmail.com </p>
+<p align="left">👾 Creating bugs since 2020!<br>📚 I'm currently learning how to be a software engineer!<br>🎯 Goals: Learn a litle of every area of interest!<br>🎲 Fun fact: I still don't know wich area is my favorite!<br>📫 How to reach me: danielmartinhodecarvalho@gmail.com </p>
 
 ###
 
@@ -84,11 +84,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/daniel-m-carvalho/count.svg?"  />
-</div>
-
-###
